@@ -5,7 +5,7 @@ atomicwrites==1.4.0
 audioread==3.0.1
 backports.weakref==1.0.post1
 c2==0.1.7
-clyent==1.2.2
+clyent==1.2.1 
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
 docopt==0.6.2
